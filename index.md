@@ -1,3 +1,7 @@
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 # this is a header
 ## this is a header
 ### this is a header
